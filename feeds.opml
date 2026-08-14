@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Berita Nasional RSS</title>
+    </head>
+    <body>
+        <outline text="Antara News - Top News" title="Antara News" type="rss" xmlUrl="https://aceh.antaranews.com/rss/top-news.xml" htmlUrl="https://www.antaranews.com"/>
+        <outline text="LintasAtjeh" title="LintasAtjeh" type="rss" xmlUrl="https://acehnews.co.id/feed/" htmlUrl="https://acehnews.co.id/"/>
+        <outline text="Google News - Aceh Singkil" title="Google News Aceh Singkil" type="rss" xmlUrl="https://news.google.com/rss/search?q=%22Aceh+Singkil%22&amp;hl=id&amp;gl=ID&amp;ceid=ID:id" htmlUrl="https://news.google.com"/>
+    </body>
+</opml>
